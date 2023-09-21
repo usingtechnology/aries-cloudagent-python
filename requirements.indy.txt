@@ -1,1 +1,2 @@
-python3-indy>=1.11.1,<2
+python3-indy==1.16.0.post286 ; python_version >= "3.9" and python_version < "4.0"
+
