@@ -5,7 +5,7 @@ description = "Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for
 authors = ["Hyperledger Aries <aries@lists.hyperledger.org>"]
 license = "Apache-2.0"
 readme = "README.md"
-packages = [{include = "aries_cloudagent"}]
+packages = [{include = "aries_cloudagent"}, { include = 'bin', format = 'sdist' }]
 classifiers = [
             "Programming Language :: Python :: 3",
             "License :: OSI Approved :: Apache Software License",
