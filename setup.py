@@ -1,4 +1,4 @@
-"""Module setup."""
+"""Module setup!"""
 
 import os
 import runpy
